@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/quiz-client/static/css/main.2aa4ddd3.chunk.css",
-    "main.js": "/quiz-client/static/js/main.9df71240.chunk.js",
-    "main.js.map": "/quiz-client/static/js/main.9df71240.chunk.js.map",
-    "runtime~main.js": "/quiz-client/static/js/runtime~main.87fdd00e.js",
-    "runtime~main.js.map": "/quiz-client/static/js/runtime~main.87fdd00e.js.map",
-    "static/js/2.8dbd77d8.chunk.js": "/quiz-client/static/js/2.8dbd77d8.chunk.js",
-    "static/js/2.8dbd77d8.chunk.js.map": "/quiz-client/static/js/2.8dbd77d8.chunk.js.map",
-    "index.html": "/quiz-client/index.html",
-    "precache-manifest.3ea9caf7816d9c0a0c10cc0381640f59.js": "/quiz-client/precache-manifest.3ea9caf7816d9c0a0c10cc0381640f59.js",
-    "service-worker.js": "/quiz-client/service-worker.js",
-    "static/css/main.2aa4ddd3.chunk.css.map": "/quiz-client/static/css/main.2aa4ddd3.chunk.css.map",
-    "static/media/logo.svg": "/quiz-client/static/media/logo.5d5d9eef.svg"
+    "main.css": "tjeerd.ritsma.nu/quiz-client/static/css/main.2aa4ddd3.chunk.css",
+    "main.js": "tjeerd.ritsma.nu/quiz-client/static/js/main.01b736a4.chunk.js",
+    "main.js.map": "tjeerd.ritsma.nu/quiz-client/static/js/main.01b736a4.chunk.js.map",
+    "runtime~main.js": "tjeerd.ritsma.nu/quiz-client/static/js/runtime~main.83db8d89.js",
+    "runtime~main.js.map": "tjeerd.ritsma.nu/quiz-client/static/js/runtime~main.83db8d89.js.map",
+    "static/js/2.c160054f.chunk.js": "tjeerd.ritsma.nu/quiz-client/static/js/2.c160054f.chunk.js",
+    "static/js/2.c160054f.chunk.js.map": "tjeerd.ritsma.nu/quiz-client/static/js/2.c160054f.chunk.js.map",
+    "index.html": "tjeerd.ritsma.nu/quiz-client/index.html",
+    "precache-manifest.41b55d1a08ee076c8403f0a0aa78e290.js": "tjeerd.ritsma.nu/quiz-client/precache-manifest.41b55d1a08ee076c8403f0a0aa78e290.js",
+    "service-worker.js": "tjeerd.ritsma.nu/quiz-client/service-worker.js",
+    "static/css/main.2aa4ddd3.chunk.css.map": "tjeerd.ritsma.nu/quiz-client/static/css/main.2aa4ddd3.chunk.css.map",
+    "static/media/logo.svg": "tjeerd.ritsma.nu/quiz-client/static/media/logo.5d5d9eef.svg"
   }
 }
